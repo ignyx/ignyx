@@ -4,7 +4,7 @@ Currently studying Computer & Networks Engineering @ INSA Toulouse. Co-founded
 [Tawkie][tawkie] (although now defunct), led its technical team to deliver a
 performant, resilient, cross-platform product.
 
-Past or current works you can find on Github :
+Past or current works you can find on Github (non exhaustive):
 
 - Tawkie staging/production [Deployment][tawkie-ansible-deploy] (Ansible, Docker, systemd)
 - Tawkie [website generator][tawkiefr-website] (GoHugo, Tailwindcss)
