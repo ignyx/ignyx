@@ -10,12 +10,14 @@ Past or current works you can find on Github (non exhaustive):
 - Tawkie [website generator][tawkiefr-website] (GoHugo, Tailwindcss)
 - Tawkie [queue service][tawkie-matrix-signup] (Fastify)
 - Maintaining the [Campus][campus] student app (React Native)
+- Playing [around with CUDA][gpu-playground] & GPU programming
 
 [tawkie]: https://www.tawkie.fr/
 [tawkie-ansible-deploy]: https://github.com/Tawkie/tawkie-ansible-deploy
 [tawkiefr-website]: https://github.com/Tawkie/tawkiefr-website
 [tawkie-matrix-signup]: https://github.com/Tawkie/tawkie-matrix-signup
 [campus]: https://github.com/ClubInfoInsaT/application-amicale
+[gpu-playground]: https://github.com/ignyx/gpu-playground
 
 <!--
 **ignyx/ignyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
