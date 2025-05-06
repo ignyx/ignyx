@@ -10,7 +10,7 @@ Past or current works you can find on Github (non exhaustive):
 - Tawkie [website generator][tawkiefr-website] (GoHugo, Tailwindcss)
 - Tawkie [queue service][tawkie-matrix-signup] (Fastify)
 - Maintaining the [Campus][campus] student app (React Native)
-- Playing [around with CUDA][gpu-playground] & GPU programming
+- Playing [around with CUDA][gpu-playground] & GPU programming (CUDA / C++ / C-Python interop)
 
 [tawkie]: https://www.tawkie.fr/
 [tawkie-ansible-deploy]: https://github.com/Tawkie/tawkie-ansible-deploy
